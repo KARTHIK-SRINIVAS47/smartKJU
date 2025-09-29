@@ -39,7 +39,7 @@ A comprehensive Customer Service System developed under *GlitchMob*. The platfor
 
 ###  *Key Features*
 
-  1.) *Role-Based Access –* Separate portals for customers, support agents & admins
+  1.) *Role-Based Access –* Separate portals for customers
 
   2.) *AI-Powered Chatbot –* Instant assistance via intelligent chatbot
 
@@ -119,13 +119,12 @@ bash
 ### *Installation*
 bash
 # Clone the repository
-git clone https://github.com/yourusername/Synovate.git
-cd kjc-vox
+git clone [https://github.com/KARTHIK-SRINIVAS47/smartKJU]
+cd SmartKJU
 
 # Backend Setup
 cd backend
-mvn clean install
-java -jar target/Synovate-backend.jar
+uvicorn main:app --reload 
 
 # Frontend Setup
 cd ../frontend
