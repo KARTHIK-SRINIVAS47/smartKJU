@@ -1,0 +1,124 @@
+##About the company synovate it solutions
+Synovate IT Solutions Pvt Ltd, established in 2012 and headquartered in Bengaluru, is a fast-growing technology company specializing in industrial automation, Industrial Internet of Things (IIoT), and embedded system solutions.
+The company offers a wide range of innovative products such as E_IDOS, mDAQ, mTracker, and E_REMOS, which are designed for real_time data acquisition, device connectivity, and remote monitoring in industrial environments.
+In addition to product development, Synovate provides end_to_end services in data analytics, embedded design, and technology consulting, helping businesses optimize operations and embrace digital transformation.
+Synovate has established strategic collaborations with global firms like Software Toolbox Inc. (USA), enhancing its ability to deliver scalable and reliable solutions tailored to industrial needs.
+Recognized for its strong leadership and employee-centric culture, Synovate IT Solutions maintains a high reputation in the industry, with a 4.6/5 rating, reflecting high levels of employee satisfaction, growth opportunities, and work-life balance.
+
+Company Overview
+•	Name: Synovate IT Solutions Pvt Ltd
+•	Founded: 2012
+•	Headquarters: Bengaluru, Karnataka, India
+•	Legal Status: Private Limited Company
+•	Website: elpisitsolutions.com
+________________________________________
+##Core Competencies
+Synovate IT Solutions specializes in delivering integrated software and hardware solutions across various domains
+
+## Products we offer 
+
+            	 • Industry IoT Solutions:
+                    	 - E_IDOS : (Elpis IoT Device for Oil Sensing)
+	  	 - mDAQ : (Data Acquisition Device)
+	  	 - mTracker : (wireless technologies to communicate)
+	   	- EDGE GATEWAY : (IoT device that connects with machines for  periodic data collection, encryption, processing and updation of data)
+
+           	  • OPC(Open platform communication) Solutions:
+	  	 - E_ON : (which can connect to multiple PLCs to collect data and share with OPC Clients)
+	  	 - Omni Server : (OmniServer is a configurable I/O server that bridges device data to clients via standard protocols)
+	  	 - OPC Datalogger : (for collecting OPC Tag data from OPC Servers and place this data in Data Storage locations 
+	  	 - SLIK_DA : (Simple, Language Independent Kit for creating OPC Data Access servers)
+
+            	 • Data Solutions:
+	  	 - E_REMOS:(Elpis Remote Monitoring System)
+
+           	 • Visualization Tools:
+	  	- Symbol Factory : (extensive library of industrial graphics optimized for high performance for use in industrial automation)
+	 	 - Industrial Gadgets:(software component intended for use in development tools such as VB,C#.NET ,VB.NET )
+	  	- Web View: (Silverlight based program that runs in a web browser)
+________________________________________
+
+## Services
+           	  • Industrial Automation: 
+                	        - Providing end-to-end automation solutions with a focus on efficiency and reliability.
+
+           	 •  Embedded Systems: 
+                               Rapid design and development services to bring products to market swiftly.
+
+          	 • Data Analytics:
+            	        Utilizing AI(Artificial intelligence) and ML(machine learning) to optimize business processes and operations.
+
+          	 •   Technology Consulting: 
+                               Offering consulting services to translate business needs into successful solutions.
+________________________________________
+
+
+## How best is our comapany to work(according to employee rating) 
+
+Synovate IT Solutions is recognized for its positive work environment:
+•	Overall Rating: 4.6/5 
+•	Work-Life Balance: 4.8/5
+•	Job Security: 4.5/5
+•	Work Satisfaction: 4.5/5
+•	Skill Development: 4.4/5
+•	Company Culture: 4.3/5
+•	Salary & Benefits: 3.9/5
+•	Promotions & Appraisals: 3.8/5 
+Employee testimonials highlight the company's supportive management, opportunities for growth, and a collaborative work culture.
+___________________________________________________
+
+##How Synovate is different in the Market
+•STRATEGIC PARTNER
+    - We at Synovate learn, understand and apply key levers to deliver our clients’ business challenges with faster time to market at significant competitive value.
+
+
+•BUILD TALENT & DOMAIN EXPERTISE
+ - We Built Talent and Subject Matter expertise with practitioners that could reflect on the model’s content and usability. We provide adequate skill-sets to expedite the transition towards your business objectives.
+
+
+•CLIENT SUCCESS IS OUR GOAL
+  - We have developed solutions based on customer's undocumented problems, Predict failures and trigger maintenance processes autonomously in live production environment.
+
+
+•INNOVATION AT SCALE
+  - We deliver solutions that can sustain and achieve repeatable organic growth from new products, services and business models that build on the core business.
+
+
+•PREDICTIVE DEVELOPMENT MODEL
+  - Upfront Time and Cost in industry automation cannot be justified in many cases. We at Synovate provide key productivity enhancement products & tools to stage the Build-up in a staggered environment.
+
+
+•BUSINESS MODELS
+  - We drive Customer satisfaction in a multi-stage process, enable companies expand their offerings by establishing disruptive business models, never-ending process that needs to be interlocked with business objectives as customers’ needs change time to time.
+
+
+•Events
+  - Engaging Office Event Ideas That Your Employees Will Love. Christmas Party. There's no better way to foster team spirit than celebrate Christmas annually with your employees in the festive season. Halloween Party. Monthly Potluck. Field Day. Motivational Speaker in the office. Cook And Serve. World Kindness Day
+___________________________________________________
+
+### locations (or) ###contact us  
+##we have 4 location including united states of america(USA) and india 
+
+                            # # India Office Address:
+
+                               #Bengaluru Branch :
+No. 102/1, 3rd Floor,Outer Ring Rd, Kamadhenu Nagar,BNarayanapura, MahadevapuraBengaluru, Karnataka 560016
+                       phone no:   +91 81979 53120
+                      contact@elpisitsolutions.com
+
+                             #Pune Branch:
+UrbanLiv Properties LLP15th Floor, Nandan Probiz, Laxman Nagar, Baner,Balewadi High Street, Pune 411045 Maharashtra India
+                         phone no:   +91 81979 53120
+                      contact@synovateitsolutions.com
+
+___________________________________________________
+
+                            #USA branch:
+        Matthews,North Carolina, USA - 28105
+                 phone no :  (704) 317 8870
+  
+    #Learders
+      Founder and ceo : KARTHIK S
+      co founder : Stella mary S
+      CTO :  Deeksha s
+      CFO : Dinesh S 
