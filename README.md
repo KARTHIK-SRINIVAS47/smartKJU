@@ -39,7 +39,7 @@ A comprehensive Customer Service System developed under *GlitchMob*. The platfor
 
 ###  *Key Features*
 
-  1.) *Role-Based Access –* Separate portals for customers
+  1.) *Role-Based Access –* Separate portals for customers, support agents & admins
 
   2.) *AI-Powered Chatbot –* Instant assistance via intelligent chatbot
 
@@ -119,12 +119,13 @@ bash
 ### *Installation*
 bash
 # Clone the repository
-git clone [https://github.com/KARTHIK-SRINIVAS47/smartKJU]
-cd SmartKJU
+git clone https://github.com/KARTHIK-SRINIVAS47/smartKJU
+cd smartKJU
 
 # Backend Setup
 cd backend
-uvicorn main:app --reload 
+mvn clean install
+java -jar target/Synovate-backend.jar
 
 # Frontend Setup
 cd ../frontend
@@ -165,8 +166,8 @@ javascript
 
 - Security Features
 - Full privacy protection for customers
-- Role-based access control (Customer/Support Agent/Admin)
-- Secure email and notification integration
+- Role-based access control 
+- Secure integration
 - Prevention of unauthorized access or data leaks
 - Encrypted storage of all sensitive data
 
